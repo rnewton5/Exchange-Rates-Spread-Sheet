@@ -1,8 +1,8 @@
 # Exchange-Rates-Spread-Sheet
 
-Just a quick thing i threw together to make getting historical exchange rates easier for my math project. 
-
 Gets historical exchange rates from the European Central Bank and stores them into a spread sheet.
+
+Uses the [fixer.io](fixer.io) api to retrieve the information.
 
 ## Usage
 
