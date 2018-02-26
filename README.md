@@ -2,7 +2,7 @@
 
 Gets historical exchange rates from the European Central Bank and stores them into a spread sheet.
 
-Uses the [fixer.io](https://www.fixer.io/) api to retrieve the information.
+Uses the [fixer.io](http://www.fixer.io/) api to retrieve the information.
 
 ## Usage
 
